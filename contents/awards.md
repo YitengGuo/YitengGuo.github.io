@@ -1,12 +1,4 @@
-
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+* Electronic Design Competition of Henan Province (Third Prize), 2025.
+* Henan Province Challenge Cup (Third Prize), 2025.
+* Henan University of Science and Technology Challenge Cup (First Prize), 2025.
+* Graduate Computer Intelligent Creativity Competition of Henan University of Science and Technology (Second and Third Prize), 2025.

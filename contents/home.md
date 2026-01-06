@@ -1,17 +1,14 @@
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/YitengGuo)
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently pursuing a master's degree at the Information Engineering College of Henan University of Science and Technology.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: gyt@stu.hist.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Master, College of Information Engineering, Henan Institute of Science and Technology, 2024—2027.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Underwater Object Detection; Visual Perception; Deep Learning
 
