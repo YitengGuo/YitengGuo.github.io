@@ -4,3 +4,8 @@
 * **[IEEE TCE 2026] MIP-Net**: Multi-Scale Inverted Pyramid Network for Underwater Object Detection. *(Under Review, SCI Q1)*
 * **[IEEE SPL 2025] MFPD**: Mamba-Driven Feature Pyramid Decoding for Underwater Object Detection. *(SCI Q3)* `[Code coming soon]`
 * **[ICSPS 2025] HCG-MIPNet**: Hierarchical Convolution-Guided Multi-Scale Inverted Pyramid Network. *(EI)*
+### 📜 Intellectual Property
+Hold **6 Software Copyrights** (as First Author) related to:
+- Adaptive Underwater Image Enhancement Systems
+- Multi-Scale Intelligent Remote Sensing & Underwater Object Detection Systems
+- Hyperspectral Image Classification Systems
