@@ -5,7 +5,7 @@ Under the tutelage of Professors Peixin Qu and Weidong Zhang.
 
 #### Contact
 
-Email: gyt@stu.hist.edu.cn
+Email: gyt2714257063@163.com
 
 #### Education
 Master, College of Information Engineering, Henan Institute of Science and Technology, 2024—2027.
